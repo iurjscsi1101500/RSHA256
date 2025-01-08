@@ -1,0 +1,7 @@
+[package]
+name = "RSHA256"
+version = "1.0.0"
+edition = "2021"
+authors = ["Atharva Tiwari <atharvatiwari1101@outlook.in>"]
+
+
